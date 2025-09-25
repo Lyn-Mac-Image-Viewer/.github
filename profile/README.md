@@ -1,7 +1,7 @@
 # Lyn Mac Image Viewer – Lightweight Photo Browser for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/33371/l/lyn-logo.png?v=1670599308" alt="Lyn Logo" width="200" height="200">  
+<img src="https://media.imgcdn.org/repo/2023/03/mirko-viviani-lyn/lyn-for-mac-logo.png" alt="Lyn Logo" width="200" height="200">  
 </div>  
 
 <div align="center">  
